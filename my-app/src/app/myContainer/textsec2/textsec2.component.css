@@ -1,0 +1,33 @@
+.text-sec
+{
+    width: 45%;
+    background: #fff;
+    margin: 10px 15px;
+    padding: 10px;
+    float: right;
+    
+}
+.heading-red
+{
+    color: #52a3fd;
+    font-size: 18px;
+}
+.text-sec p{
+    padding: 10px 0;
+    line-height: 30px;
+    color: #858585;
+    font-size: 16px;
+}
+.btn-read
+{
+    background-color: #52a3fd;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 50px;
+    text-decoration: none;
+    float: right;
+}
+.clear
+{
+    clear: both;
+}
